@@ -1,0 +1,6 @@
+langchain-openai
+langchain-together
+pydantic
+openai
+together
+python-dotenv
